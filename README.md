@@ -123,7 +123,7 @@ Per-file attribution is listed in `data/midi/README.md`.
 
 If you use this code or data, please cite both the relevant manuscript(s) and this bundle. A `CITATION.cff` is provided so that GitHub and Zenodo render the citation correctly. The Zenodo DOI for this bundle is:
 
-> **DOI:** _10.5281/zenodo.XXXXXXX_  *(to be assigned at the time of submission/release).*
+> **DOI:** [10.5281/zenodo.19837174](https://doi.org/10.5281/zenodo.19837174)
 
 ---
 
