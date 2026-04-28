@@ -1,10 +1,10 @@
 # MANIFEST.txt — SHA-256 hashes of every file in this bundle
-# Generated 2026-04-28T01:32:52Z
+# Generated 2026-04-28T02:16:23Z
 #
 # Verify with: cd repro && shasum -a 256 -c reproducibility/MANIFEST.txt
 
 622b68fe5d00c809656f1fca7728cb2355867a9066bdb23b664fd4e95d26c490  ./.gitignore
-6cdffb95e5a5ce150f6d85333154acfdbccb6cd1ef1dbfc095cc151a795bf358  ./CITATION.cff
+9c8431384ef03ae04cd534714f647b5a370ae20c2a8d2df6288c827e89fe3de3  ./CITATION.cff
 fcc517e62c2ec0345406a107ec147483a21b587588bd8017866849d5d04c5378  ./LICENSE
 46bbcafb0487b2571407016766697120cff25ed03cf8dace0e7c1a5f3f46e651  ./README.md
 fb4e384bb9fb869ae00dd4aacfdbe32b630f1b4d7156dda3b76722cd74004ae8  ./code/analyze_bwv1007.py

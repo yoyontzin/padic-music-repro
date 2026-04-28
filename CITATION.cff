@@ -40,7 +40,8 @@ references:
         family-names: Pérez-Buendía
     journal: Computational and Applied Mathematics
     year: 2026
-    notes: 'Submitted; preprint pending.'
+    doi: 10.5281/zenodo.19837367
+    notes: 'Preprint: https://doi.org/10.5281/zenodo.19837367'
   - type: article
     title: >-
       Prime-power indexed multiscale graph diagnostics for symbolic temporal
@@ -50,4 +51,5 @@ references:
         family-names: Pérez-Buendía
     journal: Journal of Mathematics and Music
     year: 2026
-    notes: 'Submitted; preprint pending.'
+    doi: 10.5281/zenodo.19837863
+    notes: 'Preprint: https://doi.org/10.5281/zenodo.19837863'
