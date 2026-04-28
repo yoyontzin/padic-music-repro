@@ -1,0 +1,61 @@
+# MANIFEST.txt — SHA-256 hashes of every file in this bundle
+# Generated 2026-04-28T01:13:25Z
+#
+# Verify with: cd repro && shasum -a 256 -c reproducibility/MANIFEST.txt
+
+622b68fe5d00c809656f1fca7728cb2355867a9066bdb23b664fd4e95d26c490  ./.gitignore
+b00eecb3aa04cff87f40892cdf318064913a5e3464a491c0e4810e498b011523  ./CITATION.cff
+fcc517e62c2ec0345406a107ec147483a21b587588bd8017866849d5d04c5378  ./LICENSE
+924f7d7b8bfd8ca3545799808e3a7edb70ba98d9d24293b76d3541de1ea54f06  ./README.md
+fb4e384bb9fb869ae00dd4aacfdbe32b630f1b4d7156dda3b76722cd74004ae8  ./code/analyze_bwv1007.py
+afabe304ddbc8b1662956feb36304105b75d8a7a8306c593ea4ac9fd6193134d  ./code/continuous_patterns.py
+d791f1fd7404d71fa90cb221655de121f25296b905522b0d0ac4b9b81229f143  ./code/get_mutopia_midis.py
+73935aca243dbf329290e9419d6710b281b556d483451471233ecf7f01aa790b  ./code/job_list_generator.py
+c8d648324b2eff96d4d95a7d3b683d1c1123a783125aee458800b51968d40425  ./code/profinite_echo_midi.py
+f2e8020e31cfc53837808702d02f89381a3663ea6a459601b60473bab46282fe  ./code/run_one_piece.py
+5846fbf367d3017cb0d20266a46c62aa3e9c01b8a5cf29dd69a9ba12dc8f537b  ./data/midi/README.md
+59449437fd1455537d3fd9d8963eac4a9f2d413f0d446b39539edbc7090fe619  ./data/midi/bwv1007-1.mid
+c3d878ff1f6be76ace7a2ef8841f24f1f8a4a11007332f1db4de1de7f39c2bd6  ./data/midi/bwv1007-2.mid
+32d6992c07f5c0d604b76bd8112c38537d94e5eaf9bf203a51c862e153c52373  ./data/midi/bwv1007-3.mid
+211e69b89d662e010f1d3c183472723da4b49c799de9786b7623f47a346983af  ./data/midi/bwv1007-4.mid
+9c752a6b0df99982f2e9002ba9c72b3558e95f8fb9f10f7a1255a159f802e152  ./data/midi/bwv1007-5.mid
+cab8659d88e61bb7afb0f0f88d88893ccd51637089233b024d911a98114ed6c8  ./data/midi/bwv1007-6.mid
+843c5486dab589cc03a585bff12a522bbbb88f3f917a33dd5b760f9e02f3f24b  ./data/midi/bwv1007_prelude.mid
+0dc3f9e21bd8e2e9d6ffcc8e46131f9a503a92e6f1c9e9701ffd217d84cace4e  ./data/midi/bwv1008-1.mid
+636307b614d7e42ada7de5258069a6aa67412d9cfa91b3814803a3011b46a7b6  ./data/midi/bwv1008-2.mid
+c4da5498509f417d8a78042ca520e7104eec891910e874739995cdf1857309f1  ./data/midi/bwv1008-3.mid
+fd0fedade220ec88375beda41a1417416d0ee563b13837c36b7dedb611e24464  ./data/midi/bwv1008-4.mid
+49b1d6f77e88e9ad2188d51bd34531c3bade84db62b3b70fae276caa50f6a9cf  ./data/midi/bwv1008-5.mid
+8894243d06f066e1516fa57ea15eb3285fd471d24150750d9f30dc1763ab3b26  ./data/midi/bwv1008-6.mid
+18b4bc835ab71d2c41ccf4989607c2936877c71373298332e749366f428ac148  ./data/midi/cellosuite3-1.mid
+f372fc9f52797f5caa07fa68b2c96f066a33223dfe34d575a951112dccb9ee71  ./data/midi/cellosuite3-2.mid
+af5849c98fbf1b0d675c1b516edc22ee4c72fdea6a7166c4350b3329c9ac1f7f  ./data/midi/cellosuite3-3.mid
+e53cf0df49b9d3748f8d7c4fc5eaa3c1051c129f1bfd86d0a65501929c262c84  ./data/midi/cellosuite3-4.mid
+1711456aae0d0e0fd8837ee9c205a999b989c34e151a92eb9d6f9da0f5251643  ./data/midi/cellosuite3-5.mid
+843c5486dab589cc03a585bff12a522bbbb88f3f917a33dd5b760f9e02f3f24b  ./data/midi/cs1-1pre.mid
+d4174ed21d8246391730210675199dfe80c82a13806e4afe9f764d322df48190  ./data/midi/cs1-2all.mid
+7845bbba52e07fb0a3bb8d1a43632218fa0830b3e693f60cd64ce90f6f5b0211  ./data/midi/cs1-3cou.mid
+f98735cbc213dd9b6819a121b655b1301b352c3cf7c483f53a3fd93c8cbbf14c  ./data/midi/cs1-4sar.mid
+688121f0dc3b86bc52fce5fa81c055b4909889f6bd473baea7a871abcb5c0efd  ./data/midi/cs1-5men.mid
+6832780a1ea46d22569755f0784336951e1b30f9626eefdaa537386fd0953674  ./data/midi/cs1-6gig.mid
+9e581febaeb38f1fba9a1ee55ce7716b367407aed140a8100177909fd045ef40  ./data/midi/toy_binary.mid
+4f44e23c994496941708de396188760f338ee8b6d52103e71f99161ca282adb0  ./data/midi/toy_ternary.mid
+19f71d6f4fbd24a3855af70293189b8db383b4b42dd231fa9b209ceb84ddba36  ./reproducibility/environment.txt
+a245cd262baa545b31fd6cda51d80bd52c8bb5143cf1fec34234c46dc0cf6802  ./reproducibility/exact_commands.sh
+7ab1ea71ea2e0514e049b455e6135a15ab18c7510d8e72439a96cf015b8607c6  ./reproducibility/git_head.txt
+0d7503c14bfd34c9d7361c4a4893f5f3089a9ba6860f14f69246b93a97bbf207  ./requirements.txt
+a3dea861aacc522dd5287b3569b212cb1a0a296ba3566ed4a68e77b93e9e89da  ./results/CONTROL_PRIMES_REPORT.txt
+52f21dc5bcdcb8b6cf4b24e9c4a6a669e04273ea41050672decb4ac5f51d41b4  ./results/CONTROL_PRIMES_REPORT_nextplus.txt
+d5974d3a5dbd69ac17fc7c1573d3c0142a9f47ff7613b696e8b9217fc5a44182  ./results/CONTROL_PRIMES_REPORT_nextpp.txt
+b09f5b2c098a7e6050d68d99e34de6b6caed7cb3f247dad26aace4596e2947dc  ./results/NULLMODEL_REPORT.txt
+fd0449a7dfba25e5f30bb63386962f0005f6b7df71ec0883e9ab0d9ddbe98883  ./results/PIPELINE_NOTES.md
+c2a2f28b5285abbf27f75ca64e866539887d669e1c3ea341ec8a9dee0c3711b5  ./results/README.md
+eedcfa333c4c9bb3d69128a5deb0d74870a85515d4498f94c8e5a4eaf46bb5a3  ./results/SUMMARY.md
+18fb0ff7389d4ee0140406778ee60e58dd3a9f12135ba3b2dbeecf811c1295b0  ./results/SUMMARY_REPORT.txt
+e455846639b72a69fce5c3907987fde90d94deb82eb155bde356f6d4f43975e3  ./results/SUMMARY_TABLE.csv
+23547c83b53ba86e5fa30884f96b79a16df6abfc05aea7ebad411e01888ef236  ./results/SUMMARY_TABLE_nullmodel_p2357.csv
+a09fa194f3ab3255b3358803d376b9d1ee92d50bd1a4c063b7ffe433410be0c3  ./results/SUMMARY_TABLE_p2357.csv
+392b326e7095788e5b3a6a4255d446511cd5939924d1d0eac0b0e5268eb39417  ./results/SUMMARY_TABLE_p2357_nextplus.csv
+491e4a86f86f0e0913d4b29693dfe85dbf61d8219c875d28f5f86b3df75ae26e  ./results/SUMMARY_TABLE_p2357_nextpp.csv
+2b5d2393897e86f6800ba68b368c480e72a3d2782481e8ed8e6baed706de8dc5  ./results/audit_by_piece.csv
+7207fe3aa7379ff07c109d360e20ae948c22b9847e8d2ae3bfec68310ed9409c  ./results/audit_table.csv

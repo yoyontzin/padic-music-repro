@@ -1,0 +1,51 @@
+CONTROL PRIMES SUMMARY (Phase I Next+)
+=======================================
+Conditions: seconds_cap300/500, beats_bin{8,12,16}_cap300/500.
+
+Piece: bwv1049_mov1  Condition: beats_bin12_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1049_mov1  Condition: beats_bin16_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1049_mov1  Condition: beats_bin8_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1049_mov1  Condition: seconds_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1049_mov2  Condition: beats_bin12_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1049_mov2  Condition: seconds_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1049_mov3  Condition: beats_bin12_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1049_mov3  Condition: seconds_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1050_mov1  Condition: beats_bin12_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1050_mov1  Condition: seconds_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1050_mov2  Condition: beats_bin12_cap300
+  Rows: 27. Delta23 nonzero: 13.
+
+Piece: bwv1050_mov2  Condition: beats_bin16_cap300
+  Rows: 27. Delta23 nonzero: 11.
+
+Piece: bwv1050_mov2  Condition: beats_bin8_cap300
+  Rows: 27. Delta23 nonzero: 3.
+
+Piece: bwv1050_mov2  Condition: seconds_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1050_mov3  Condition: beats_bin12_cap300
+  Rows: 27. Delta23 nonzero: 0.
+
+Piece: bwv1050_mov3  Condition: seconds_cap300
+  Rows: 27. Delta23 nonzero: 0.

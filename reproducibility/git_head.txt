@@ -1,0 +1,6 @@
+# Source-repo HEAD at the time of bundle generation
+# (origin repository is private; this is provided for reproducibility traceability only)
+commit:    c8e722da08b2d733f000ca9cca76b4b03c0bd88a
+author:    J. Rogelio Pérez-Buendía
+date:      2026-04-26T17:01:41-06:00
+subject:   Editorial closure v1 (CAM/JMM submissions)

@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+title: >-
+  Reproducibility bundle for "Profinite hierarchical patterns and prime-indexed
+  multiscale invariants in symbolic music" and companion short note on BWV 1007
+message: >-
+  If you use this bundle, please cite both the relevant manuscript(s)
+  and this dataset.
+type: dataset
+authors:
+  - given-names: J. Rogelio
+    family-names: Pérez-Buendía
+    affiliation: Centro de Investigación en Matemáticas (CIMAT), Mérida, México
+    orcid: 'https://orcid.org/0000-0002-7739-4779'
+abstract: >-
+  Pipeline code (Python), MIDI inputs, summary tables, and pipeline reports for
+  reproducing the numerical results of two companion manuscripts on prime-power
+  indexed multiscale graph diagnostics for symbolic temporal data, with a
+  detailed application to J.S. Bach's Cello Suite No. 1 in G major (BWV 1007).
+keywords:
+  - p-adic analysis
+  - profinite integers
+  - symbolic music
+  - topological data analysis
+  - multiscale graphs
+  - reproducibility
+  - MIDI
+license: MIT
+license-url: 'https://opensource.org/licenses/MIT'
+identifiers:
+  - description: Zenodo DOI (assigned at release).
+    type: doi
+    value: 10.5281/zenodo.XXXXXXX
+references:
+  - type: article
+    title: >-
+      Profinite hierarchical patterns and prime-indexed multiscale invariants
+      in symbolic music
+    authors:
+      - given-names: J. Rogelio
+        family-names: Pérez-Buendía
+    journal: Computational and Applied Mathematics
+    year: 2026
+    notes: 'Submitted; preprint pending.'
+  - type: article
+    title: >-
+      Prime-power indexed multiscale graph diagnostics for symbolic temporal
+      data: methodological exploration and delimitation via BWV 1007
+    authors:
+      - given-names: J. Rogelio
+        family-names: Pérez-Buendía
+    journal: Journal of Mathematics and Music
+    year: 2026
+    notes: 'Submitted; preprint pending.'
